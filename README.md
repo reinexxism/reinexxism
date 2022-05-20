@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinexxism)](https://github.com/anuraghazra/github-readme-stats)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 <!--
 **reinexxism/reinexxism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
