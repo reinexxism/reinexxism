@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Joo%20Hyun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HELLO%20WORLD&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinexxism&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinexxism)](https://github.com/anuraghazra/github-readme-stats)
