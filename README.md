@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HELLO%20WORLD&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=HELLO%20WORLD&fontSize=40)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinexxism&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinexxism&langs_count=8&layout=compact&theme=radical)](https://github.com/reinexxism/github-readme-stats)
