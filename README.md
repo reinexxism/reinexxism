@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=5F7B48&height=150&text=Green Forest&animation=twinkling&fontSize=50&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=5F7B48&height=100&text=Green Forest&animation=twinkling&fontSize=50&fontAlign=50)
 <div align="center">
   <p>잔디채워서 숲 만들기 프로젝트<p>
 </div>
