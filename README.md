@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-BDA890?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio IDE-8A755D?style=flat&logo=Visual Studio IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-63574A?style=flat&logo=Xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-63574A?style=flat&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-42372B?style=flat&logo=Eclipse IDE&logoColor=white"/><br><br><br><br>
 </div>
 
