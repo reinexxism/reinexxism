@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-42372B?style=flat&logo=Eclipse IDE&logoColor=white"/><br><br><br><br>
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/78ce5626-624d-41ef-bb94-f66a14e62b49.svg)](https://wakatime.com/@78ce5626-624d-41ef-bb94-f66a14e62b49)
 
 
 
