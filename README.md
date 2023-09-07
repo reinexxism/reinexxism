@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=5F7B48&height=100&text=Green Forest&animation=twinkling&fontSize=50&fontAlign=52)
 <div align="center">
-  <p>잔디채워서 숲 만들기 프로젝트<p>
+  <p>잔디 채워서 숲 만들기 프로젝트<p>
 </div>
 <br>
 <div align="center">
