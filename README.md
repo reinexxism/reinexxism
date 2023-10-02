@@ -19,7 +19,10 @@
   <img src="https://img.shields.io/badge/Xcode-63574A?style=flat&logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-63574A?style=flat&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-42372B?style=flat&logo=Eclipse IDE&logoColor=white"/><br><br><br><br>
+
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 </div>
+
 
 
 
