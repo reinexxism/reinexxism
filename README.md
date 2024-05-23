@@ -5,14 +5,11 @@
 <br>
 <div align="center">
   🌿 Studying now<br><br>
-  
-  <img src="https://img.shields.io/badge/Python-C8DBBE?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-A8C095?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-79896D?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-323D29?style=flat&logo=Swift&logoColor=white"/><br><br>
+  <img src="https://img.shields.io/badge/Swift-323D29?style=flat&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-323D29?style=flat&logo=Swift&logoColor=white"/><br><br>
   🌳 Interest in<br><br>
-  <img src="https://img.shields.io/badge/Electron-79896D?style=flat&logo=Electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-435138?style=flat&logo=Flutter&logoColor=white"/><br><br>
+  <img src="https://img.shields.io/badge/iOS-79896D?style=flat&logo=Apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-435138?style=flat&logo=Apple&logoColor=white"/><br><br>
   🪵 Tools<br><br>
   <img src="https://img.shields.io/badge/Visual Studio Code-BDA890?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio IDE-8A755D?style=flat&logo=Visual Studio IDE&logoColor=white"/>
