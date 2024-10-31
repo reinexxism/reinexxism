@@ -1,24 +1,29 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=5F7B48&height=100&text=Green Forest&animation=twinkling&fontSize=50&fontAlign=52)
-<div align="center">
-  <p>잔디 채워서 숲 만들기 프로젝트<p>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=637762&width=435&separator=%3C&lines=Hello%2C+I'm+Joohyun%3CWhile+(Dreaming)+Keep+Going;)](https://git.io/typing-svg)
 <br>
 <div align="center">
-  🌿 Studying now<br><br>
-  <img src="https://img.shields.io/badge/Swift-323D29?style=flat&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-323D29?style=flat&logo=Swift&logoColor=white"/><br><br>
-  🌳 Interest in<br><br>
-  <img src="https://img.shields.io/badge/iOS-79896D?style=flat&logo=Apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macOS-435138?style=flat&logo=Apple&logoColor=white"/><br><br>
+  🌿 AI / ML / DL<br><br>
+  <img src="https://img.shields.io/badge/Python-415041?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tensorflow-415041?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-415041?style=for-the-badge&logo=Pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikitlearn-415041?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <br><br>
+  🌳 Frontend<br><br>
+  <img src="https://img.shields.io/badge/Javascript-728972?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-728972?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-728972?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styledcomponents-728972?style=for-the-badge&logo=styledcomponents&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Sass-728972?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactRouter-728972?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactQuery-728972?style=for-the-badge&logo=reactquery&logoColor=white"/>
+  <br><br>
   🪵 Tools<br><br>
-  <img src="https://img.shields.io/badge/Visual Studio Code-BDA890?style=flat&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio IDE-8A755D?style=flat&logo=Visual Studio IDE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-63574A?style=flat&logo=Xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-63574A?style=flat&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse IDE-42372B?style=flat&logo=Eclipse IDE&logoColor=white"/><br><br><br><br>
+  <img src="https://img.shields.io/badge/Jupyter-755b54?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-755b54?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pycharm-755b54?style=for-the-badge&logo=pycharm&logoColor=white"/>
 
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
+  <br><br>
 </div>
+
 
 
 
